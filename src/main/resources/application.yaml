@@ -1,0 +1,13 @@
+spring:
+  data:
+    neo4j:
+      uri: http://namenode:7474
+      username: neo4j
+      password: qq1995912qq
+  servlet:
+    multipart:
+      max-file-size: 4MB
+
+application:
+  file:
+    baseStaticResourcesPath: /Users/hui/Documents/static
